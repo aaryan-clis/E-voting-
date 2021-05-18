@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    size: 25px;
+    color: blue;
+    background-color: coral;
+}
+label{
+    text-align: center;
+}
+input{
+    text-align: center;
+}
+button{
+
+}
+h2{
+    text-align: center;
+    color: crimson;
+    font-style: oblique;
+}
